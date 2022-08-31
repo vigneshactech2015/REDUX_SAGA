@@ -1,0 +1,40 @@
+{
+  "products": [
+    {
+      "id": 1,
+      "name": "Samsung M 40",
+      "color": "black",
+      "price":15000,
+      "category":"mobile",
+      "brand":"Samsung",
+      "photo":"https://tse1.mm.bing.net/th?id=OIP.uEgGm9zpQoM27QYTZA38KwHaI8&pid=Api&P=0"
+    },
+    {
+      "id": 2,
+      "name": "iPhone 6s",
+      "color": "black",
+      "price":55000,
+      "category":"mobile",
+      "brand":"iPhone",
+      "photo":"https://tse3.mm.bing.net/th?id=OIP.rGqvtm_l8EiGaQ3jUJPsEwHaHa&pid=Api&P=0"
+    },
+    {
+      "id": 3,
+      "name": "iPhone 13",
+      "color": "silver",
+      "price":85000,
+      "category":"mobile",
+      "brand":"iPhone",
+      "photo":"https://tse2.mm.bing.net/th?id=OIP.GADafLPEaobF4-IjDGJhyAHaHa&pid=Api&P=0"
+    },
+    {
+      "id": 4,
+      "name": "T-shirt",
+      "color": "black",
+      "price":500,
+      "category":"clothes",
+      "brand":"Nike",
+      "photo":"https://tse3.mm.bing.net/th?id=OIP.O2txg29s9-Q5C4z55MoQ0QHaJ4&pid=Api&P=0"
+    }
+  ]
+}
